@@ -2,7 +2,8 @@ class Hello
 {
     public static void main(String args[])
     {
-        System.out.println("Hello Srini");
-        System.out.println("How are you ?")
+        System.out.println("Hello Kamalesh");
+        System.out.println("How are you ?");
+	System.out.println("How is your work going")
     }
 }
